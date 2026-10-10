@@ -1,0 +1,6 @@
+{
+  "name": "Efficient Text Searching Using KMP Algorithm",
+  "description": "DAA college project demonstrating the Knuth-Morris-Pratt string matching algorithm with interactive visualizer, LPS array builder, and brute force performance comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
